@@ -314,7 +314,7 @@ a {
 
 /* extra classes */
 .display-xl {
-  font-size: clamp(2.5rem, 4vw, 4.5rem);
+  font-size: clamp(2.5rem, 4.5vw, 5rem);
   font-weight: var(--heading-font-weight);
   letter-spacing: -0.06em;
   line-height: var(--heading-line-height);
