@@ -1,5 +1,5 @@
 /*
-Theme Name: Julie Creative Portfolio
+Theme Name: Mohammad Dicky Sustiawan Portfolio
 Theme URI: https://templatesjungle.com/
 Author: TemplatesJungle
 Author URI: https://templatesjungle.com/
@@ -314,7 +314,7 @@ a {
 
 /* extra classes */
 .display-xl {
-  font-size: calc(3rem + 8.5vw);
+  font-size: clamp(2.5rem, 5vw, 3.5rem);
   font-weight: var(--heading-font-weight);
   letter-spacing: -0.06em;
   line-height: var(--heading-line-height);
