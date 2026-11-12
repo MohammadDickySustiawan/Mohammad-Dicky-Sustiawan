@@ -312,6 +312,11 @@ a {
   color: #fff;
   background-color: var(--bs-dark);
 }
+
+.btn-toggle:hover::after {
+  filter: brightness(0) invert(1);
+}
+
 .btn-toggle[aria-expanded="true"]::after {
   transform: rotate(180deg);
 }
